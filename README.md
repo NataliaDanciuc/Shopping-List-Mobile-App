@@ -1,0 +1,2 @@
+# Shopping-List-Mobile-App
+In this Repository I have implemented a .NET MAUI cross-platform mobile application with a Shopping List theme. With the help of this application, each person can make a list of the products they need and select the store where they want to do their shopping. Based on the entered address, the application will be able to open the map and we will receive navigation directions. Also, if the distance between the device location and the store location is less than 1 km, the app will send us a notification.
